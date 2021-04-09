@@ -60,6 +60,9 @@ hr {
     float: left;
     margin-right: 30px;
 }
+.skills{
+    background-color: #66bfbf;
+}
 .camera-img {
     width: 25%;
     float: right;
