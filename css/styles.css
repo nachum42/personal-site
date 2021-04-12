@@ -62,6 +62,9 @@ hr {
 }
 .skills{
     background-color: #66bfbf;
+.skills-heading{
+    color: #ffffff;
+    }
 }
 .camera-img {
     width: 20%;
