@@ -68,6 +68,9 @@ hr {
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.skills-subheading{
+    margin-top: 0px;
+}
 .camera-img {
     width: 20%;
     float: right;
