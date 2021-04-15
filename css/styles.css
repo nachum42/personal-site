@@ -62,11 +62,10 @@ hr {
 }
 .skills{
     background-color: #66bfbf;
+    padding: 7% 15%;
 }
 .skills-heading{
     color: #ffffff;
-    margin-top: 100px;
-    margin-bottom: 100px;
 }
 .skills-subheading{
     margin-top: 0px;
